@@ -10,7 +10,7 @@ public_subnets      =       [
 private_subnets = [
     {cidr = "10.0.11.0/24", availability_zone = "ap-northeast-2a"},
     {cidr = "10.0.13.0/24", availability_zone = "ap-northeast-2c"},
-
+]
 admin_access_cidrs  = ["116.127.84.104/32"]
 
 instance_type       =   "t3.micro"
