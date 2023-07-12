@@ -59,7 +59,7 @@ terraform apply --var-file=s3.tfvars
 
 ### 2) Sample 이미지 업로드
 
-Sample 이미지 주소 : https://github.com/jihyungSong/terraform-course/blob/master/aws/11-s3/img/sample_image.png
+Sample 이미지 주소 : https://github.com/education-labs/lab/blob/main/10-s3/01-s3/test-sample.jpg
 
 브라우저를 통해 해당 주소로 이동. 깃헙 페이지에서 Download 버튼 클릭 또는 이미지 우클릭 후 "다른 이름으로 저장" 하여 로컬 환경으로 다운로드.  
 다운로드 받은 이미지를 S3 Bucket 에 업로드한다.  
