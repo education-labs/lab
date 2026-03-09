@@ -18,8 +18,8 @@ private_subnets         =       [
 
 admin_access_cidrs      =       ["<<YOUR_LOCAL_IP_CIDR>>"]
 
-image_id                =       "<<YOUR_AMI_ID>>"
-data_vol_snapshot_id    =       "<<DATA_VOLUME_SNAPSHOT_ID>>"
+image_id                =       "ami-067f964458129cf2e"
+data_vol_snapshot_id    =       "snap-0462d26c70e5e0722"
 data_volume_size        =       "10"
 
 instance_type           =       "t3.micro"
