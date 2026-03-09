@@ -14,8 +14,8 @@ private_subnets = [
 
 admin_access_cidrs  = ["116.127.84.104/32"]
 
-ami_id                  =   "ami-0a70c09512d9f6bac"
-data_vol_snapshot_id    =   "snap-055586669f9a8351d"
+ami_id                  =   "ami-067f964458129cf2e"
+data_vol_snapshot_id    =   "snap-0462d26c70e5e0722"
 
 
 instance_type       =   "t3.micro"
