@@ -13,8 +13,8 @@ private_subnets = [
 ]
 
 admin_access_cidrs          =   ["116.127.84.104/32"]
-ami_id                      =   "<<YOUR_AMI_ID>>"
-data_vol_snapshot_id        =   "<<DATA_VOLUME_SNAPSHOT_ID>>"
+ami_id                      =   "ami-067f964458129cf2e"
+data_vol_snapshot_id        =   "snap-0462d26c70e5e0722"
 data_volume_size            =   "10"
 instance_type               =   "t3.micro"
 keypair_name                =   "user**-key"
